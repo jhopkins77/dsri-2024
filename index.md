@@ -8,4 +8,4 @@ This site is a compendium of all the important knowledge that's been discovered 
 * Rugby
 * Sewing Machines
 * Belgian History
-* Rutabegas 
+* Rutabagas 
