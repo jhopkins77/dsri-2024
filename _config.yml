@@ -1,5 +1,5 @@
 title: The Hopkins DSRI Project # The top-level website title
-description: How I learned to create a super cool repo site site duing DSRI 2024
+description: The super cool repo site site duing DSRI 2024
 
 remote_theme: pages-themes/cayman@v0.2.0 # Establishes a theme
 plugins:
