@@ -16,6 +16,8 @@ layout: default
 
 ![Preparation for a religious sacrifice](https://upload.wikimedia.org/wikipedia/commons/0/05/Phillie_Phanatic_participates_in_Star_Wars_Night.JPG)
 
+![A warning to a politician](Gritty.jpeg)
+
 
 ## About the author 
 
