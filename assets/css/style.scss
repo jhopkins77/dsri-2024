@@ -1,12 +1,10 @@
 ---
 ---
-
+#page-header {
+    background-color: coral;
+}
 @import "{{ site.theme }}";
 
 h1 {
     color: red;
-}
-
-#page-header {
-    background-color: coral;
 }
